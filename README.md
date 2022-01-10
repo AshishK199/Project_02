@@ -41,28 +41,6 @@ Create a Spark Application that processes Twitter data project2 pitch should inv
 
 - Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
 
-## Contributors
-Aparna Sankarasetti​ 
-
-https://github.com/aparnasankarasetti/project_2
-
-Ashish Kumar​
-
-https://github.com/AshishK199/Project_02​
-
-Shubham Mishra
-
-https://github.com/shubhammishra-bigdata/Project_2
-
-Swati Pralhad Chavhan
-
-https://github.com/Swati-Pralhad/Big-Data-Python-Project-2
-
-Lakshmi Tejaswi Gogineni
-
-https://github.com/Lakshmi/Project2
-
-
 ## Reference
 - https://www.kaggle.com/rohanrao/joe-biden-tweets
 - https://api.twitter.com/2/users/:id/likes
